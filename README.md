@@ -1,2 +1,2 @@
-# Digital-NPU-FallBack
+# Digital-mixed-signal-NPU-FallBack
 a mixed-signal NPU utilizing CIM for primary computation and a digital MAC array as a backup module
